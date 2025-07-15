@@ -1,0 +1,2 @@
+# mynode
+V2rayNG
